@@ -1,6 +1,6 @@
 # Todo List App
 
-![App Screenshot](preview\screenshot.png)
+![App Screenshot](preview/screenshot.png)
 
 Welcome to the Todo List App, developed by Harsh Gurjar! This is a simple and efficient React-based application designed to help you manage your tasks and stay organized. The app utilizes Material UI components and leverages React hooks to provide a smooth and interactive user experience.
 
